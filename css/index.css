@@ -2,12 +2,12 @@
   font-weight: 0;
   font-size: 5vw;
   margin: auto;
-  transition: all 0.25s;
-  color: rgb(135,255,103) ;
-  background-color: #e6fff5;
+  transition: all 0.01s;
+  color: #32f845 ;
+  background-color:#2e2929;
 }
 *:hover{
-  color: #00ffaa ;
+  color:#000000;
 }
 .keyboard{
   font-size: 8vw;
@@ -19,12 +19,12 @@
   padding: 0px;
 }
 .keyboard:hover {
-  border: 1px solid rgb(93,255,159);
-  background-color: #00ffaa;
+  border: 1px solid black;
+  background-color: #000;
   box-shadow: 1px 1px 1px 1px black;
   color: white;
 }
-input{
+input, input:hover{
   align-items: bottom;
   margin-top: 5%;
   font-family: roboto;
@@ -36,35 +36,27 @@ input{
   color:#32f845;
 }
 .top-button{
-  background-color: #66ffcc ;
-  color: #ffffff;
+  background-color: #7efc8a ;
+  color: #2e2929;
   margin: 0px;
 }
 .left-button{
-  background-color:#00ffaa  ;
-  color: #ffffff;
+  background-color:#7efc8a  ;
+  color: #2e2929;
 }
 .bottom-buttons{
-  color: #ffffff;
-  background-color:#00cc88;
+  background-color: #000;
+  color: white;
 }
 .top-button:hover{
-  background-color: #e6fff5 ;
-  color: #00ffaa;
+  background-color: #00ffaab1 ;
 }
 .left-button:hover{
-  background-color:#e6fff5  ;
-  color: #00ffaa;
-}
-.bottom-buttons:hover{
-  color: #00ffaa;
-  background-color:#e6fff5;
+  background-color:#00ffaab1  ;
 }
 button{
   margin: auto;
   margin-left: 0px;
   margin-right: 0px;
   float: left;
-  background-color: ;
-  color: #00ffaa;
 }
