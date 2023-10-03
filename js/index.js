@@ -4,6 +4,7 @@ const backspace=document.getElementById("backspace")
 Array.from(keyboard).forEach((key)=>{
   key.addEventListener("click",()=>{
     console.log(key.innerHTML);
+    openFullscreen()    
     if (key.innerHTML=="="){
       if (query.value==""){
         console.log("please fullfill the term")
