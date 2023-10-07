@@ -4,6 +4,7 @@ const backspace=document.getElementById("backspace")
 Array.from(keyboard).forEach((key)=>{
   key.addEventListener("click",()=>{
     console.log(key.innerHTML);
+    navigator.vibrate(50)
     openFullscreen()    
     if (key.innerHTML=="="){
       if (query.value==""){
