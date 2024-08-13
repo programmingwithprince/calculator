@@ -2,6 +2,9 @@
 
 Welcome to the **Calculator** project! This repository contains a simple web-based calculator built using HTML, CSS, and JavaScript. It's designed to perform basic arithmetic operations with a user-friendly interface.
 
+#Visit and preview the app here
+[https://programmingwithprince.github.io/calculator/]
+
 ## 🚀 Features
 
 - **Basic Arithmetic Operations**: Perform addition, subtraction, multiplication, and division.
