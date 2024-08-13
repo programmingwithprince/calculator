@@ -2,8 +2,12 @@
 
 Welcome to the **Calculator** project! This repository contains a simple web-based calculator built using HTML, CSS, and JavaScript. It's designed to perform basic arithmetic operations with a user-friendly interface.
 
-#Visit and preview the app here
-[https://programmingwithprince.github.io/calculator/]
+
+# Visit and preview the app here
+https://programmingwithprince.github.io/calculator/ 
+
+
+
 
 ## 🚀 Features
 
