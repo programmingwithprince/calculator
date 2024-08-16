@@ -56,6 +56,7 @@ index.html: The main HTML file for the calculator interface.
 LICENSE: The license file for the project.
 README.md: Project documentation.
 
+```
 ## ⚠️ Note
 
 This calculator is primarily designed for use on mobile phones and may not be fully responsive on desktop devices.
