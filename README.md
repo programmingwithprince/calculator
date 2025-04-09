@@ -79,7 +79,7 @@ This project is licensed under the Apache-2.0 License. See the LICENSE file for 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: tea4indial@example.com
+- **Email**: tea4india@example.com
 - **GitHub**: programmingwithprince
 
 ---
